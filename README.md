@@ -34,7 +34,7 @@
 
 -เริ่มจากดาวน์โหลดโปรแกรม git
 
--เปิด command prompt เลือกโฟลเดอร์ แลัวรันคำสั่ง gitclone https://github.com/chompool-boonmee/ioset1.git
+-เปิด command prompt เลือกโฟลเดอร์ แลัวรันคำสั่ง gitclone 
 
 -แล้วหลังจากนั้นทำตามที่ github เขียนไว้
 
